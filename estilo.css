@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(13, 77, 82, 0.8);
+}
+.estilo-btn{
+    border: none;
+    border-radius: 75px;
+    width: 150px;
+    height: 150px;
+    margin: 15PX;
+}
+button{
+    margin-top: 30px;
+    width: 550px;
+    height: 40px;
+}
